@@ -24,12 +24,13 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 HTML 
+
 <!DOCTYPE html>
 <html lang="en-us">
 
 <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css"> 
     <title>website</title>
 </head>
 
@@ -106,4 +107,6 @@ HTML
 </body>
 
 </html>
+
+
 
