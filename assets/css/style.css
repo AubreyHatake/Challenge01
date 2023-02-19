@@ -76,7 +76,7 @@ p {
 }
 
 .benefits {
-    margin-right: -50px;
+    margin-right: auto;
     padding: 20px;
     clear: auto;
     float: right;
