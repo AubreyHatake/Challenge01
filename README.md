@@ -37,10 +37,10 @@ To style the HTML file, we use a CSS file located at (assets/css/style.css)
 
 This is a link to the website made from GitHub https://aubreyhatake.github.io/Challenge01/
 
-site will mock the appearence of this site: 
-![Challenge site](02-Challenge/Assets/01-html-css-git-homework-demo.png)
+ ![sitescreenshot](assets/images/Screenshot%202023-02-19%20182413.png)
 
-Except with different semantic elements and alt for image descriptions to be more accessible for users. 
+
+This site has different semantic elements and alts for image descriptions to be more accessible for users. 
 
 
 
