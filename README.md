@@ -24,7 +24,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## My HTML document
+## My HTML document and CSS styling
 
  [HTMLlink](index.html)
 
@@ -35,7 +35,17 @@ To style the HTML file, we use a CSS file located at (assets/css/style.css)
 
 ## My website 
 
-This is a link to the website made live from GitHub https://aubreyhatake.github.io/Challenge01/
+This is a link to the website made from GitHub https://aubreyhatake.github.io/Challenge01/
+
+site will mock the appearence of this site: 
+![Challenge site](02-Challenge/Assets/01-html-css-git-homework-demo.png)
+
+Except with different semantic elements and alt for image descriptions to be more accessible for users. 
+
+
+
+
+
 
 
 
