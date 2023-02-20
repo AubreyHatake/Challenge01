@@ -28,9 +28,7 @@ THEN I find a concise, descriptive title
 
  [HTMLlink](index.html)
 
-To style the HTML file, we use a CSS file located at (assets/css/style.css) To link the CSS file to the HTML file, add the following code to the HTML file's <head> section:
-
- <link rel="stylesheet" href="./assets/css/style.css">
+To style the HTML file, we use a CSS file located at (assets/css/style.css)
 
 
 [style.css](assets/css/style.css)
